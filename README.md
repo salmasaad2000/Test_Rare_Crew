@@ -18,45 +18,45 @@ A Flutter application implementing Firebase authentication with local CRUD opera
 ## Project Structure
 lib/
 
-main.dart
+ main.dart
 
-models/
+ models/
 
-user_model.dart
+  user_model.dart
 
-item_model.dart
+  item_model.dart
 
-services/   
+ services/   
 
-auth_service.dart
+  auth_service.dart
 
-view_models/ 
+ view_models/ 
 
-auth_view_model.dart
+  auth_view_model.dart
 
-item_view_model.dart
+  item_view_model.dart
 
-profile_view_model.dart
+  profile_view_model.dart
 
-views/   
+ views/   
 
-main_screen.dart
+  main_screen.dart
 
-auth/
+ auth/
 
-login_screen.dart
+  login_screen.dart
 
-home/
+ home/
 
-home_screen.dart
+  home_screen.dart
 
-add_edit_item_dialog.dart
+  add_edit_item_dialog.dart
 
-item_list.dart
+  item_list.dart
 
-profile/
+ profile/
 
-profile_screen.dart
+  profile_screen.dart
 
 ## Getting Started
 
