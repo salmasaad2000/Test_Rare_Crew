@@ -33,12 +33,15 @@ profile_view_model.dart
 
 views/                           
 main_screen.dart
+
 auth/
 login_screen.dart
+
 home/
 home_screen.dart
 add_edit_item_dialog.dart
 item_list.dart
+
 profile/
 profile_screen.dart
 
